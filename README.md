@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm working as a Cloud Engineer from Germany. Started out in the Linux Server world 💾, moved as Systems Engineer into the AWS Cloud ☁️ and these days I do more and more programming 👨🏻‍💻.
+I'm working as a Cloud Engineer from Germany. Started out in the Linux Server world 💾, moved as Systems Engineer into the AWS Cloud ☁️ and these days I sit mostly in meetings but also do some programming 🤪👨🏻‍💻.
 
 Passionate about product engineering vs maintenance engineering. ⚡️
 
