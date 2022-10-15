@@ -6,4 +6,5 @@ Passionate about product engineering vs maintenance engineering. ⚡️
 
 Special things:
 - My IDE is emacs ❤️ ([config](https://github.com/flyck/.emacs.d))
-- I once build my own keyboard ⌨️ (contributed the guide [here](https://github.com/adereth/dactyl-keyboard/tree/master/guide))
+- I have build my own keyboard ⌨️ (contributed the guide [here](https://github.com/adereth/dactyl-keyboard/tree/master/guide))
+- Totally on the javascript framwork hype 🚀
