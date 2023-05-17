@@ -9,4 +9,4 @@ Special things:
 - I have build my own keyboard ⌨️ (contributed the guide [📗](https://github.com/adereth/dactyl-keyboard/tree/master/guide))
 - Totally on the javascript framework hype 🚀 (trial repo [🧪](https://gitlab.com/flyck/hype-js))
 
-I also run a shared block with @hendriknielaender [🤜🤛](https://double-trouble.dev/), and for work I currently use gitlab [🦊](https://gitlab.com/flyck).
+I also run a shared blog together with [@hendriknielaender](https://github.com/hendriknielaender) [🤜🤛](https://double-trouble.dev/), and for work I currently use gitlab [🦊](https://gitlab.com/flyck).
