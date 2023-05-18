@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Cloud Engineer from Germany here. Started out in the Linux Server world 💾, moved as Systems Engineer into the AWS Cloud ☁️ and transitioned into mostly serverless backend programming 👨🏻‍💻 ontop of AWS.
 
@@ -11,7 +11,8 @@ Special things:
 
 I also run a shared blog together with [@hendriknielaender](https://github.com/hendriknielaender) [🤜🤛](https://double-trouble.dev/), and for work I currently use gitlab [🦊](https://gitlab.com/flyck).
 
-My journey with Rust 🦀:
-- Comprehensive Rust by Google:  🟩🟩🟩◽
-- Rustlings Exercises:           🟩🟩◽️ ◽️
-- A banking csv cli report tool: ◽️ ◽️ ◽️ ◽️
+
+## Rust 🦀🦀🦀 Loading...
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/welcome.html) by Google: 75%
+- [Rustlings Exercises](https://github.com/rust-lang/rustlings): 50%
+- A bank spending report generation cli tool: 0%
