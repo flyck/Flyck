@@ -10,3 +10,8 @@ Special things:
 - Totally on the javascript framework hype 🚀 (trial repo [🧪](https://gitlab.com/flyck/hype-js))
 
 I also run a shared blog together with [@hendriknielaender](https://github.com/hendriknielaender) [🤜🤛](https://double-trouble.dev/), and for work I currently use gitlab [🦊](https://gitlab.com/flyck).
+
+My journey with Rust 🦀:
+- Comprehensive Rust by Google:  🟩🟩🟩◽
+- Rustlings Exercises:           🟩🟩◽️ ◽️
+- A banking csv cli report tool: ◽️ ◽️ ◽️ ◽️
