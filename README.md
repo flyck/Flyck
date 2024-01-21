@@ -12,7 +12,7 @@ Special things:
 I run a shared blog together with [@hendriknielaender](https://github.com/hendriknielaender) [🤜🤛](https://double-trouble.dev/), and I also have some repos over at gitlab [🦊](https://gitlab.com/flyck).
 
 Next up:
-- Party task planner app (try new technology)
+- Party task planner app (new tech)
 - AppSync with RDS backends
 - AppSync as Supergraph
 - Wundergraph as BFF
