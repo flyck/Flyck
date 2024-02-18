@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Started my journey in the server world 💾, moved as systems engineer into the cloud ☁️ and transitioned into serverless development 👨🏻‍💻 ontop of AWS.
+Started my journey in the server world 💾, moved as systems engineer into the cloud ☁️ and transitioned into serverless backend development 👨🏻‍💻 ontop of AWS.
 
 Passionate about product engineering vs maintenance engineering. ⚡️
 
