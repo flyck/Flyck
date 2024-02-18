@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Started my journey in the Linux Server world 💾, moved as Systems Engineer into the AWS Cloud ☁️ and transitioned into mostly serverless backend programming 👨🏻‍💻 ontop of AWS.
+Started my journey in the Server world 💾, moved as Systems Engineer into the AWS Cloud ☁️ and transitioned into serverless development 👨🏻‍💻 ontop of AWS.
 
 Passionate about product engineering vs maintenance engineering. ⚡️
 
