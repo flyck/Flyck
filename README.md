@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Started my journey in the server world 💾, moved as systems engineer into the cloud ☁️ and transitioned into serverless backend development 👨🏻‍💻 ontop of AWS.
+I'm a cloud-native developer based in Germany, with a focus on backend and a background in system engineering.
 
 Passionate about product engineering vs maintenance engineering. ⚡️
 
