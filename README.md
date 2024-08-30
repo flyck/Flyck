@@ -4,7 +4,7 @@ I'm a cloud-native developer based in Germany, with a focus on backend and a bac
 
 Passionate about product engineering vs maintenance engineering. ⚡️
 
-Special things:
+About me:
 - My IDE is emacs ❤️ (config [⚙️](https://github.com/flyck/.emacs.d))
 - I have build my own keyboard ⌨️ (contributed the guide [📗](https://github.com/adereth/dactyl-keyboard/tree/master/guide))
 - I run a shared blog together with [@hendriknielaender](https://github.com/hendriknielaender) [🤜🤛](https://double-trouble.dev/)
