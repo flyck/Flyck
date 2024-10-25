@@ -4,7 +4,7 @@ I'm a cloud-native developer based in Germany.
 
 I focus on backend and have a background in system engineering.
 
-Building products > doing jira tickets
+Building > Maintaining
 
 About me:
 - emacs = bay (config [⚙️](https://github.com/flyck/.emacs.d))
