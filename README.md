@@ -1,5 +1,3 @@
-# Facts
-
 I'm a cloud-native developer based in Germany.
 
 I focus on backend and have a background in system engineering.
