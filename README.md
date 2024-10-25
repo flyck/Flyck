@@ -1,14 +1,16 @@
 # Facts
 
-I'm a cloud-native developer based in Germany, with a focus on backend and a background in system engineering.
+I'm a cloud-native developer based in Germany.
 
-Passionate about product engineering vs maintenance engineering. ⚡️
+I focus on backend and have a background in system engineering.
+
+Building products > doing jira tickets
 
 About me:
-- My IDE is emacs ❤️ (config [⚙️](https://github.com/flyck/.emacs.d))
-- I have build my own keyboard ⌨️ (contributed the guide [📗](https://github.com/adereth/dactyl-keyboard/tree/master/guide))
-- I run a shared blog together with [@hendriknielaender](https://github.com/hendriknielaender) [🤜🤛](https://double-trouble.dev/)
+- emacs = bay (config [⚙️](https://github.com/flyck/.emacs.d))
+- I made a keyboard ⌨️ (contributed the guide [📗](https://github.com/adereth/dactyl-keyboard/tree/master/guide))
+- I run a blog together with [@hendriknielaender](https://github.com/hendriknielaender) [🤜🤛](https://double-trouble.dev/)
 
-A few repos are also over at gitlab [🦊](https://gitlab.com/flyck).
+gitlab [🦊](https://gitlab.com/flyck).
 
 Things I am working on are listed here: [roadmap](https://github.com/users/flyck/projects/2).
