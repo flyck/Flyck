@@ -1,14 +1,20 @@
-I'm a cloud-native developer based in Germany.
+## Hi there!
 
-I focus on backend and have a background in systems engineering.
+... and welcome to my profile :)
 
-Building > Maintaining
+I am a cloud-native developer based in Germany. 
 
-About me:
-- emacs = bay (config [⚙️](https://github.com/flyck/.emacs.d))
+I do focus on backend and cloud, as my career started out in systems engineering.
+
+I believe building is greater than maintaining.
+
+
+#### Key facts:
+- I use emacs (config [⚙️](https://github.com/flyck/.emacs.d))
 - I made a keyboard ⌨️ (contributed the guide [📗](https://github.com/adereth/dactyl-keyboard/tree/master/guide))
-- I run a blog together with [@hendriknielaender](https://github.com/hendriknielaender) [🤜🤛](https://double-trouble.dev/)
+- I run the [double trouble 🤜🤛](https://double-trouble.dev/) blog together with [@hendriknielaender](https://github.com/hendriknielaender)
 
-gitlab [🦊](https://gitlab.com/flyck).
+I also have a few older projects over on gitlab [🦊](https://gitlab.com/flyck).
 
-Things I am working on are listed here: [roadmap](https://github.com/users/flyck/projects/2).
+Finaly, if you're interested in what I'm working on, feel free to check out my
+[public roadmap 🛣️](https://github.com/users/flyck/projects/2).
