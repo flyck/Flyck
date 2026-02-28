@@ -1,11 +1,8 @@
 ## Hi there!
 
-you've stumbled across a profile of a...
-- cloud-native developer based in Germany
-- with a focus on backend and cloud
-- a background in systems engineering.
+I am a cloud-native full-stack developer based in Germany.
 
-Building is greater than maintaining.
+I believe building is greater than maintaining.
 
 
 #### Key facts:
