@@ -1,12 +1,11 @@
 ## Hi there!
 
-... and welcome to my profile :)
+you've stumbled across a profile of a...
+- cloud-native developer based in Germany
+- with a focus on backend and cloud
+- a background in systems engineering.
 
-I am a cloud-native developer based in Germany. 
-
-I do focus on backend and cloud, as my career started out in systems engineering.
-
-I believe building is greater than maintaining.
+Building is greater than maintaining.
 
 
 #### Key facts:
