@@ -2,7 +2,7 @@
 
 I am a cloud-native full-stack developer based in Germany.
 
-I believe building is greater than maintaining.
+I believe building to be greater than maintaining.
 
 
 #### Key facts:
