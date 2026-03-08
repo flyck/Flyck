@@ -12,5 +12,5 @@ I believe building to be greater than maintaining.
 
 I also have a few older projects over on gitlab [🦊](https://gitlab.com/flyck).
 
-Finaly, if you're interested in what I'm working on, feel free to check out my
+Finally, if you're interested in what I'm working on, feel free to check out my
 [public roadmap 🛣️](https://github.com/users/flyck/projects/2).
