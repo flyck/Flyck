@@ -1,8 +1,8 @@
 ## Hi there!
 
-I am a cloud-native full-stack developer based in Germany.
+I am a cloud-native fullstack developer based in Germany.
 
-I believe building to be greater than maintaining.
+I believe in building to be greater than maintaining.
 
 
 #### Key facts:
