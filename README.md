@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am a cloud-native fullstack developer with a focus on serverless based in Germany.
+I am a cloud-native fullstack developer based in Germany.
 
 Key Facts:
 - My main clouds are AWS for work and cloudflare for side-projects
